@@ -31,7 +31,7 @@ Pro leveres med oppsett av tilbudsbiblioteket og oppdateringer når regelverket 
 ### Claude Code og Claude-appen (plugins)
 
 ```
-/plugin marketplace add <github-bruker>/anbudsskriver
+/plugin marketplace add Sporg-no/anbudsskriver
 /plugin install anbud-kontroll@anbudsskriver
 ```
 
