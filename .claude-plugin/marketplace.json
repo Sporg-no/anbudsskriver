@@ -1,16 +1,18 @@
 {
   "name": "anbudsskriver",
-  "owner": { "name": "Namsvatn Markonsult" },
+  "owner": {
+    "name": "Namsvatn Markonsult"
+  },
   "metadata": {
     "description": "Norske skills for leverandører som skriver tilbud på offentlige anbud (Doffin, Mercell, eu-supply).",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "anbud-kontroll",
       "source": "./plugins/anbud-kontroll",
       "description": "Gratis: analyse av konkurransegrunnlag og avvisningssjekk før innlevering.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

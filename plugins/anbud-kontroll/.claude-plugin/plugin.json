@@ -1,0 +1,10 @@
+{
+  "name": "anbud-kontroll",
+  "version": "1.0.1",
+  "description": "Gratis norske skills for offentlige anbud: analyse av konkurransegrunnlag og avvisningssjekk før innlevering.",
+  "author": {
+    "name": "Namsvatn Markonsult"
+  },
+  "license": "MIT",
+  "keywords": ["anbud", "offentlige anskaffelser", "Doffin", "konkurransegrunnlag", "norsk"]
+}

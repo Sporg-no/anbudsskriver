@@ -15,13 +15,15 @@ Finn alt i tilbudet som kan gi avvisning eller poengtrekk, før det leveres. Opp
 
 Mangler grunnlaget eller tilbudet, stopp og be om det. Sjekken kan ikke gjøres på bare den ene delen.
 
+Mange portaler (Mercell, eu-supply, TendSign) har kravsvar som fylles ut direkte i portalen. Spør om noen svar er gitt der, og be brukeren lime dem inn eller laste opp en eksport. Krav som kan være besvart i portalen, men ikke er vist deg, får status **Ikke kontrollerbart** og ikke **Mangler**.
+
 ## Fremgangsmåte
 
 Gå gjennom sjekklisten i `references/sjekkliste.md` punkt for punkt. For hvert punkt:
 
 1. Finn kravet i grunnlaget (med kilde).
 2. Finn hvor tilbudet svarer på det (med kilde).
-3. Vurder: **OK**, **Mangler**, **Avvik** eller **Uklart**.
+3. Vurder: **OK**, **Mangler**, **Avvik**, **Uklart** eller **Ikke kontrollerbart**.
 
 Deretter:
 
