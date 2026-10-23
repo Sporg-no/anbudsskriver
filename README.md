@@ -24,7 +24,7 @@ Skills for leverandører som skriver tilbud på offentlige anskaffelser i Norge.
 | `avklaringssporsmal` | Spørsmål til oppdragsgiver som ikke avslører egen løsning |
 | `etter-tildeling` | Frister, kontroll av evalueringen, innsyn, klage og lærdom til neste tilbud |
 
-Pro leveres med oppsett av tilbudsbiblioteket og oppdateringer når regelverket endres. Kontakt: Namsvatn Markonsult.
+Pro leveres med oppsett av tilbudsbiblioteket og oppdateringer når regelverket endres. Kontakt: Namsvatn Markonsult – eanamsvatn@gmail.com.
 
 ## Installering
 
